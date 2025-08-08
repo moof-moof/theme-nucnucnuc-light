@@ -1,0 +1,37 @@
+{
+	"name": "theme-nucnucnuc-light",
+	"displayName": "NucNucNuc Light Theme",
+	"version": "1.0",
+	"publisher": "moof-moof",
+	"description": "A no-nonsense custom colour-scheme and light ui theme for vscode.",
+    "pricing": "Free",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/moof-moof/theme-nucnucnuc-light.git"
+	},
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.102.3"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": {
+			"label": "NucNucNuc",
+			"uiTheme": "vs-light",
+			"path": "./themes/nucnucnuc-color-theme.json"
+		}
+	},
+	
+	"__metadata": {
+		"publisherDisplayName": "Loxia labs",
+//		"installedTimestamp": 0,
+		"targetPlatform": "undefined"
+//      "updated":false,
+//		"private":true,
+//      "isPreReleaseVersion":false,
+//      "hasPreReleaseVersion":false
+	}
+}
+
