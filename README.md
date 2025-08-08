@@ -1,7 +1,6 @@
 
 # Nucnucnuc Light VSCode Theme
 
-***
 
 ## Description
 
