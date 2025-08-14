@@ -18,13 +18,13 @@ A no-nonsense bespoke colour-scheme and "light" UI theme for the VSCE, based on 
 ***
 Some syntax sample screenshots:
 
-![Python syntax](/home/xneb/gits/theme-nucnucnuc-light/screenshots/py.png  "Python syntax")
+![Python syntax](screenshots/py.png  "Python syntax")
 
-![Python syntax](/home/xneb/gits/theme-nucnucnuc-light/screenshots/ino.png  "Python syntax")
+![Python syntax](screenshots/ino.png  "Python syntax")
 
-![Python syntax](/home/xneb/gits/theme-nucnucnuc-light/screenshots/term.png  "Python syntax")
+![Python syntax](screenshots/term.png  "Python syntax")
 
-![Python syntax](/home/xneb/gits/theme-nucnucnuc-light/screenshots/cpp.png  "Python syntax")
+![Python syntax](screenshots/cpp.png  "Python syntax")
 
 Extra extensions used in the screenshots:
 
