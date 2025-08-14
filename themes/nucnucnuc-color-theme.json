@@ -1,6 +1,6 @@
 {
   "name": "NucNucNuc Light",
-  /* version 8 (250805) */
+  /* "nucnucnuc-color-theme.json" version 1.0.2 (250814) */
    
   // "semanticHighlighting": true,
   "$schema": "vscode://schemas/color-theme",
@@ -12,7 +12,7 @@
     "activityBar.border": "#000000",
     "activityBar.background": "#f1f1f1",
     "activityBar.foreground": "#383a42",
-    "activityBar.inactiveForeground": "#ffffff66",
+    "activityBar.inactiveForeground": "#979797",
     "activityBarBadge.background": "#0099e1",
     "activityBarBadge.foreground": "#ffffff",
     
@@ -442,8 +442,8 @@
     "symbolIcon.variableForeground": "#383a42",
 
     "tab.activeBackground": "#828282",
-    "tab.activeBorder": "#ffffff",
-    "tab.activeBorderTop": "#ffffff",
+    "tab.activeBorder": "#828282",
+    "tab.activeBorderTop": "#828282",
     "tab.activeForeground": "#ffffff", 
     
     "tab.border": "#000000",
@@ -497,7 +497,8 @@
     "titleBar.inactiveBackground": "#f3eedd",
     "titleBar.inactiveForeground": "#000000",
     "walkThrough.embeddedEditorBackground": "#e8e8e8",
-    "widget.shadow": "#00000040"
+    "widget.shadow": "#00000040",
+    "settings.headerForeground":"#000000"
   },
 
 

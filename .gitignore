@@ -1,3 +1,6 @@
-.DS_Store
+*.vsix
 .vsixmanifest
 node_modules/
+.vscodeignore
+package-lock.json
+.DS_Store

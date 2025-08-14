@@ -1,15 +1,37 @@
 
-# Nucnucnuc Light VSCode Theme
-
-
-## Description
-
-A no-nonsense custom colour-scheme and light ui theme for the VS Code editor.
+# NucNucNuc Light vsCode Theme
 
 ***
 
-*(Version 1.0)*
 
-<p align="center">
-    <img src="favicon.png">
-<p>
+### Description
+
+
+*(Version 1.0.2)*
+
+A no-nonsense bespoke colour-scheme and "light" UI theme for the VSCE, based on "*theme-bluloco-light* ".
+
+
+
+
+
+***
+Some syntax sample screenshots:
+
+![Python syntax](/home/xneb/gits/theme-nucnucnuc-light/screenshots/py.png  "Python syntax")
+
+![Python syntax](/home/xneb/gits/theme-nucnucnuc-light/screenshots/ino.png  "Python syntax")
+
+![Python syntax](/home/xneb/gits/theme-nucnucnuc-light/screenshots/term.png  "Python syntax")
+
+![Python syntax](/home/xneb/gits/theme-nucnucnuc-light/screenshots/cpp.png  "Python syntax")
+
+Extra extensions used in the screenshots:
+
+-  *vscode-icons-mac, version: 7.25.3*
+-  *vscode-highlight, version: 1.9.0*
+
+***
+
+<p align="center"><img src="images/icon_128.png"><p>
+

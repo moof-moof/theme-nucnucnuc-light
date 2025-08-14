@@ -1,37 +1,42 @@
 {
 	"name": "theme-nucnucnuc-light",
-	"displayName": "NucNucNuc Light Theme",
-	"version": "1.0",
+	"version": "1.0.2",
 	"publisher": "moof-moof",
-	"description": "A no-nonsense custom colour-scheme and light ui theme for vscode.",
-    "pricing": "Free",
+	"engines": {
+		"vscode": "^1.102.3"
+	},
+	"license": "SEE LICENSE IN LICENSE.txt",
+	"displayName": "NucNucNuc Light Theme",
+	"description": "A no-nonsense custom colour-scheme and 'light' ui theme for vscode",
+	"categories": [
+		"Themes"
+	],
+	"extensionKind": [
+		"ui",
+		"workspace"
+	],
+	"icon": "images/icon_128.png",
+	"pricing": "Free",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/moof-moof/theme-nucnucnuc-light.git"
 	},
-	"icon": "icon.png",
-	"engines": {
-		"vscode": "^1.102.3"
-	},
-	"categories": [
-		"Themes"
-	],
 	"contributes": {
-		"themes": {
-			"label": "NucNucNuc",
-			"uiTheme": "vs-light",
-			"path": "./themes/nucnucnuc-color-theme.json"
-		}
+		"themes": [
+			{
+				"label": "NucNucNuc",
+				"uiTheme": "vs",
+				"path": "./themes/nucnucnuc-color-theme.json"
+			}
+		]
 	},
-	
+	"devDependencies": {
+		"shelljs": "^0.8.5"
+	},
 	"__metadata": {
 		"publisherDisplayName": "Loxia labs",
-//		"installedTimestamp": 0,
-		"targetPlatform": "undefined"
-//      "updated":false,
-//		"private":true,
-//      "isPreReleaseVersion":false,
-//      "hasPreReleaseVersion":false
+		"targetPlatform": "undefined",
+		"installedTimestamp": 1754697840166,
+		"size": 1776666
 	}
 }
-
