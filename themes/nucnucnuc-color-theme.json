@@ -1,6 +1,6 @@
 {
   "name": "NucNucNuc Light",
-  /* "nucnucnuc-color-theme.json" version 1.0.2 (250814) */
+  /* "nucnucnuc-color-theme.json" version 1.0.2 (250820) */
    
   // "semanticHighlighting": true,
   "$schema": "vscode://schemas/color-theme",
@@ -107,7 +107,7 @@
     "editor.foreground": "#383a42",
     "editor.hoverHighlightBackground": "#383a4213",
     "editor.inactiveSelectionBackground": "#e5ebf179",
-    "editor.lineHighlightBackground": "#add6ff4d",
+    "editor.lineHighlightBackground": "#add6ff44",
 	  "editor.lineHighlightBorder": "#e6f3ff",
     "editor.rangeHighlightBackground": "#c1e2faa6",
     "editor.rangeHighlightBorder": "#ffffff00",
@@ -1269,7 +1269,7 @@
       }
     },
     {
-      "name": "Constants",
+      "name": "Constants(Python)",
       "scope": [
         "support.variable.magic.python",
         "constant.language.python",
@@ -1315,6 +1315,30 @@
       "settings": {
         // "foreground": "",
         "fontStyle": ""
+      }
+    },
+
+
+
+// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  MISC LANGUAGES SPECIFIC
+   {
+      "name": "Toml Keys",
+      "scope": [
+        "support.type.property-name.toml"
+      ],
+      "settings": {
+        "foreground": "#ff6a00",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Toml Heading",
+      "scope": [
+        "support.type.property-name.table.toml"
+      ],
+      "settings": {
+        "foreground": "#A05A48",
+        "fontStyle": "bold"
       }
     }
   ],
